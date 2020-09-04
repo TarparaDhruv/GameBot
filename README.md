@@ -1,2 +1,4 @@
-# GameBot
-GameBot is a Machine learning and computer vision-based project that plays a var racing game by itself.
+To run this game you need.
+1.python
+2.pygame
+installed in your ( linux ) computer to run interminal type :-python game.py
