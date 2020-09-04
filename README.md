@@ -1,4 +1,8 @@
-To run this game you need.
-1.python
-2.pygame
-installed in your ( linux ) computer to run interminal type :-python game.py
+# Requirements
+1. python
+2. pygame
+
+use the following command to run the code in your Linux/Windows terminal:
+```bash 
+python game.py
+```
